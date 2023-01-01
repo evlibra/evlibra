@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ievgenii Vasiuk
 - 👀 I’m interested in process improvement and knowledge management
 - 🌱 I’m currently learning to manage knowledge using model-based and open-source approaches
-- 💞️ I’m looking to collaborate on learnig innovation
+- 💞️ I’m looking to collaborate on open learnig innovation
 - 📫 How to reach me evgenii.vasiuk@gmail.com
 
 <!---
